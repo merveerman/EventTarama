@@ -1,0 +1,10 @@
+C:\Users\MerveERMAN\Desktop\İş Teklifi İçin Proje Yapılacak\EventTarama\EventTarama\bin\Debug\EventTarama.exe.config
+C:\Users\MerveERMAN\Desktop\İş Teklifi İçin Proje Yapılacak\EventTarama\EventTarama\bin\Debug\EventTarama.exe
+C:\Users\MerveERMAN\Desktop\İş Teklifi İçin Proje Yapılacak\EventTarama\EventTarama\bin\Debug\EventTarama.pdb
+C:\Users\MerveERMAN\Desktop\İş Teklifi İçin Proje Yapılacak\EventTarama\EventTarama\obj\Debug\EventTarama.csprojAssemblyReference.cache
+C:\Users\MerveERMAN\Desktop\İş Teklifi İçin Proje Yapılacak\EventTarama\EventTarama\obj\Debug\EventTarama.Properties.Resources.resources
+C:\Users\MerveERMAN\Desktop\İş Teklifi İçin Proje Yapılacak\EventTarama\EventTarama\obj\Debug\EventTarama.csproj.GenerateResource.cache
+C:\Users\MerveERMAN\Desktop\İş Teklifi İçin Proje Yapılacak\EventTarama\EventTarama\obj\Debug\EventTarama.csproj.CoreCompileInputs.cache
+C:\Users\MerveERMAN\Desktop\İş Teklifi İçin Proje Yapılacak\EventTarama\EventTarama\obj\Debug\EventTarama.exe
+C:\Users\MerveERMAN\Desktop\İş Teklifi İçin Proje Yapılacak\EventTarama\EventTarama\obj\Debug\EventTarama.pdb
+C:\Users\MerveERMAN\Desktop\İş Teklifi İçin Proje Yapılacak\EventTarama\EventTarama\obj\Debug\EventTarama.MainForm.resources
